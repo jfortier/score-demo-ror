@@ -48,4 +48,5 @@ end
 gem 'mysql2'
 gem 'devise'
 gem 'activeadmin', github: 'gregbell/active_admin'
+gem 'rails-api'
 
